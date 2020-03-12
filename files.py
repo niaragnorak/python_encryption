@@ -1,4 +1,2 @@
-def encry(f,h):
-    enc=""
-    for i in f:
-        
+f=open('p1.txt','r')
+files=

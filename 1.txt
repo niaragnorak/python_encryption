@@ -1,3 +1,0 @@
-winpython
-cx_freeze python 3.4
-import cx_freeze
